@@ -1,0 +1,20 @@
+.navTransparent{
+    position:absolute;
+    z-index:10;
+    width:100%;
+    color: white;
+    
+    }
+    
+    .carouselNav{
+    position:static;
+    top: 0;
+    }
+
+    .titulo_bloque {
+        background-size: cover;
+    }
+
+    #icono {
+        margin: auto;
+    }
